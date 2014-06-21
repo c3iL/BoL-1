@@ -30,3 +30,5 @@ ITEM_MANAGER||TeemFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/
 DRAW_POS_MANAGER||TeemFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/DRAW_POS_MANAGER.lua
 JungleLib||Hellsing||https://bitbucket.org/Hellsing/botoflegends/raw/master/lib/JungleLib.lua
 LEVEL||TeemFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/LEVEL.lua
+ezCollision||Yomie||https://bitbucket.org/Xgs/bol/raw/master/Common/ezCollision.lua
+ezLibrary||Yomie||https://bitbucket.org/Xgs/bol/raw/master/Common/ezLibrary.lua
