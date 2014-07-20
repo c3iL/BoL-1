@@ -17,7 +17,7 @@ LineSkillShotPosition||Dienofail||https://raw.githubusercontent.com/Dienofail/Bo
 Prodiction||Klokje||https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/ec830facccefb3b52212dba5696c08697c3c2854/Test/Prodiction/Prodiction.lua
 Collision||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/Collision.lua
 DataManager||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/DataManager.lua
-Selector||pqmailer||https://raw.githubusercontent.com/pqmailer/BoL_Scripts/master/Paid/Selector.lua
+Selector||pqmailer||http://iuser99.com/libraries/iLibraryENC.lua
 MapPosition||Husky||http://pastebin.com/raw.php?i=GdZ1T8zc
 SALib||BotHappy||https://raw.githubusercontent.com/BotHappy/bh-scripts/master/Common/SALib.lua
 old2dgeo||Husky||https://raw.githubusercontent.com/wquantum1/BoL/master/old2dgeo.lua
@@ -37,3 +37,4 @@ ItemRecipes||Feez||http://pastebin.com/raw.php?i=hTM4bVC6
 ChampionLib||Dekaron2||https://raw.githubusercontent.com/wquantum1/BoL/master/ChampionLib.lua
 OnDisconnect & OnReconnect||Roach||https://raw.githubusercontent.com/RoachxD/BoL_Scripts/master/OnDisconnect%20&%20OnReconnect.lua
 YooLib||Yooooooo||https://dl.dropboxusercontent.com/s/fxvgpxcjcxmisr9/YooLib.lua
+iuser99||iLibrary||http://iuser99.com/libraries/iLibraryENC.lua
