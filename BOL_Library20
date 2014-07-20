@@ -9,7 +9,6 @@ SOW||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/SOW.lu
 SourceLib||TheRealSource||https://raw.githubusercontent.com/TheRealSource/public/master/common/SourceLib.lua
 DrawDamageLib||Draesia||http://pastebin.com/raw.php?i=UfZ0Efax
 spellDmg||eXtragoZ||http://pastebin.com/raw.php?i=MH4kxipw
-target_selector||Keoshin||https://gist.githubusercontent.com/Taik/413521900102b2719978/raw/af6f08100a5ad5648f52da69f15a81b56bc961a1/target_selector.lua
 imLib||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/imLib.lua
 PPrediction||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
 BestCollision||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/BestCollision.lua
@@ -18,7 +17,7 @@ LineSkillShotPosition||Dienofail||https://raw.githubusercontent.com/Dienofail/Bo
 Prodiction||Klokje||https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/ec830facccefb3b52212dba5696c08697c3c2854/Test/Prodiction/Prodiction.lua
 Collision||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/Collision.lua
 DataManager||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/DataManager.lua
-Selector||pqmailer||https://raw.githubusercontent.com/pqmailer/BoL_Scripts/master/Paid/Selector.lua
+Selector||pqmailer & iuser99||http://iuser99.com/scripts/Selector.lua
 MapPosition||Husky||http://pastebin.com/raw.php?i=GdZ1T8zc
 SALib||BotHappy||https://raw.githubusercontent.com/BotHappy/bh-scripts/master/Common/SALib.lua
 old2dgeo||Husky||https://raw.githubusercontent.com/wquantum1/BoL/master/old2dgeo.lua
@@ -36,6 +35,9 @@ Edited_AllClass||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikem
 FTER_SOW||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/FTER_SOW.lua
 ItemRecipes||Feez||http://pastebin.com/raw.php?i=hTM4bVC6
 ChampionLib||Dekaron2||https://raw.githubusercontent.com/wquantum1/BoL/master/ChampionLib.lua
+OnDisconnect & OnReconnect||Roach||https://raw.githubusercontent.com/RoachxD/BoL_Scripts/master/OnDisconnect%20&%20OnReconnect.lua
+YooLib||Yooooooo||https://dl.dropboxusercontent.com/s/fxvgpxcjcxmisr9/YooLib.lua
+iLibrary||iuser99||http://iuser99.com/libraries/iLibraryENC.lua
 Sida's Auto Carry - Reborn Test Environment||Sida||https://bitbucket.org/SidaBoL/reborn/raw/95432a4bdb983db9608e92b8a9853e61829d2d63/Sida%27s%20Auto%20Carry%20-%20Reborn%20Test%20Environment.lua
 Sida's Auto Carry - Reborn||Sida||https://bitbucket.org/SidaBoL/reborn/raw/95432a4bdb983db9608e92b8a9853e61829d2d63/Sida%27s%20Auto%20Carry%20-%20Reborn.lua
 MarksmanMightyAssistant||Manciuszz||dl.dropboxusercontent.com/s/yc8oyj3clru4ve8/MarksmanMightyAssistant.lua
