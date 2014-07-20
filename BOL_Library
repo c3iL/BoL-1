@@ -9,7 +9,6 @@ SOW||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/SOW.lu
 SourceLib||TheRealSource||https://raw.githubusercontent.com/TheRealSource/public/master/common/SourceLib.lua
 DrawDamageLib||Draesia||http://pastebin.com/raw.php?i=UfZ0Efax
 spellDmg||eXtragoZ||http://pastebin.com/raw.php?i=MH4kxipw
-target_selector||Keoshin||https://gist.githubusercontent.com/Taik/413521900102b2719978/raw/af6f08100a5ad5648f52da69f15a81b56bc961a1/target_selector.lua
 imLib||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/imLib.lua
 PPrediction||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
 BestCollision||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/BestCollision.lua
