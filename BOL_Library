@@ -1,40 +1,42 @@
-ImBeastyLib||Zikkah||http://scripts.imbeasty.com/ImBeastyLib.lua
-spellList||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/spellList.lua
-iSAC||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/iSAC.lua
-AllClass||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/AllClass.lua
+AoE_SkillShot_Position||Monogato - Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua
+AQLib||AWA - QQQ||https://raw.githubusercontent.com/bolqqq/BoLScripts/master/common/AQLib.lua
+BestCollision||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/BestCollision.lua
+ChampionLib||Dekaron2||https://raw.githubusercontent.com/c3iL/BoL-1/master/ChampionLib.lua
+Collision||Klokje||https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/master/Common/Collision.lua
 ComboClass||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/ComboClass.lua
 ComboLib||llama||https://raw.githubusercontent.com/LlamaBoL/BoL/master/Common/comboLib.lua
-VPrediction||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/VPrediction.lua
-SOW||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/SOW.lua
-SourceLib||TheRealSource||https://raw.githubusercontent.com/TheRealSource/public/master/common/SourceLib.lua
-DrawDamageLib||Draesia||http://pastebin.com/raw.php?i=UfZ0Efax
-spellDmg||eXtragoZ||http://pastebin.com/raw.php?i=MH4kxipw
-imLib||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/imLib.lua
-PPrediction||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
-BestCollision||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/BestCollision.lua
-AoE_SkillShot_Position||Monogato||https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua
-LineSkillShotPosition||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/LineSkillShotPosition.lua
-Prodiction||Klokje||https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/ec830facccefb3b52212dba5696c08697c3c2854/Test/Prodiction/Prodiction.lua
-Collision||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/Collision.lua
-DataManager||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/DataManager.lua
-Selector||pqmailer & iuser99||http://iuser99.com/scripts/Selector.lua
-MapPosition||Husky||http://pastebin.com/raw.php?i=GdZ1T8zc
-SALib||BotHappy||https://raw.githubusercontent.com/BotHappy/bh-scripts/master/Common/SALib.lua
-old2dgeo||Husky||https://raw.githubusercontent.com/wquantum1/BoL/master/old2dgeo.lua
-FastCollision||Klokje||https://bitbucket.org/boboben1/bol-scripts/raw/7dae5a6294b9db14b5430b72d9b5c2c6eb8758a1/Misc/FastCollision.lua
-ShadowVayneLib||Superx321||https://raw.githubusercontent.com/Superx321/BoL/master/common/ShadowVayneLib.lua
 CustomPermaShow||Superx321||https://raw.githubusercontent.com/Superx321/BoL/master/common/CustomPermaShow.lua
-AQLib||AWA - QQQ||https://raw.githubusercontent.com/bolqqq/BoLScripts/master/common/AQLib.lua
-JungleLib||Hellsing||https://bitbucket.org/Hellsing/botoflegends/raw/master/lib/JungleLib.lua
+DataManager||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/DataManager.lua
+DRAW_POS_MANAGER||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/DRAW_POS_MANAGER.lua
+DrawDamageLib||Draesia||http://pastebin.com/raw.php?i=UfZ0Efax
+Edited_AllClass||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/Edited_AllClass.lua
 ezCollision||Yomie||https://raw.githubusercontent.com/soulcaliber/BoL/master/Common/ezCollision.lua
 ezLibrary||Yomie||https://raw.githubusercontent.com/soulcaliber/BoL/master/Common/ezLibrary.lua
-DRAW_POS_MANAGER||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/DRAW_POS_MANAGER.lua
-LEVEL||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/LEVEL.lua
-ITEM_MANAGER||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/ITEM_MANAGER.lua
-Edited_AllClass||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/Edited_AllClass.lua
+FastCollision||Klokje||https://bitbucket.org/boboben1/bol-scripts/raw/7dae5a6294b9db14b5430b72d9b5c2c6eb8758a1/Misc/FastCollision.lua
 FTER_SOW||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/FTER_SOW.lua
+iLibraryENC||iuser99||http://iuser99.com/libraries/iLibraryENC.lua
+ImBeastyLib||Zikkah||http://scripts.imbeasty.com/ImBeastyLib.lua
+imLib||Klokje||https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/master/Common/ImLib.lua
+iSAC||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/iSAC.lua
+ITEM_MANAGER||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/ITEM_MANAGER.lua
 ItemRecipes||Feez||http://pastebin.com/raw.php?i=hTM4bVC6
-ChampionLib||Dekaron2||https://raw.githubusercontent.com/wquantum1/BoL/master/ChampionLib.lua
+LEVEL||TeamFreeScript||https://raw.githubusercontent.com/fter44/ilikeman/master/common/LEVEL.lua
+LineSkillShotPosition||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/LineSkillShotPosition.lua
+MapPosition||Husky||https://raw.githubusercontent.com/c3iL/BoL-1/master/MapPosition.lua
+MarksmanMightyAssistant||Manciuszz||https://dl.dropboxusercontent.com/s/yc8oyj3clru4ve8/MarksmanMightyAssistant.lua
 OnDisconnect & OnReconnect||Roach||https://raw.githubusercontent.com/RoachxD/BoL_Scripts/master/OnDisconnect%20&%20OnReconnect.lua
-YooLib||Yooooooo||https://dl.dropboxusercontent.com/s/fxvgpxcjcxmisr9/YooLib.lua
-iLibrary||iuser99||http://iuser99.com/libraries/iLibraryENC.lua
+PPrediction||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
+Prodiction||Klokje||https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/master/Test/Prodiction/Prodiction.lua
+SALib||BotHappy - Skeem||https://raw.githubusercontent.com/UglyOldGuy/NintendoBoL/master/BH%20Bundle/Common/SALib.lua
+Selector||pqmailer - iuser99||http://iuser99.com/scripts/Selector.lua
+ShadowVayneLib||Superx321||https://raw.githubusercontent.com/Superx321/BoL/master/common/ShadowVayneLib.lua
+Sida's Auto Carry - Reborn||Sida||https://bitbucket.org/SidaBoL/reborn/raw/master/Sida's%20Auto%20Carry%20-%20Reborn.lua
+SourceLib||Honda7 - Hellsing - dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/SourceLib.lua
+SOW||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/SOW.lua
+SOWYasi||Syntax Error||https://raw.githubusercontent.com/FrozenPoet/BoL/master/common/SOWYasi.lua
+spellDmg||eXtragoZ||https://raw.githubusercontent.com/soulcaliber/BoL/master/Common/spellDmg.lua
+spellList||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/spellList.lua
+SxOrbWalk||Superx321||https://raw.githubusercontent.com/Superx321/BoL/master/common/SxOrbWalk.lua
+VPrediction||Honda7 - Hellsing||https://raw.githubusercontent.com/Hellsing/BoL/master/common/VPrediction.lua
+YooLib||Yooooooo||https://raw.githubusercontent.com/Yoooooo/YoLuaProject/master/YooLib.lua
+Yolib||Yooooooo||https://raw.githubusercontent.com/Yoooooo/YoLuaProjects/master/Yolib.lua
